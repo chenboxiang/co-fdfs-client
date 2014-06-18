@@ -1,0 +1,29 @@
+{
+  "name": "co-fdfs-client",
+  "version": "0.5.1",
+  "description": "fdfs-client wrapper for co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fdfs",
+    "fastdfs",
+    "co"
+  ],
+  "author": "chenboxiang <gozap.chenboxiang@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenboxiang/co-fdfs-client"
+  },
+  "dependencies": {
+    "fdfs-client": "0.5.1",
+    "thunkify-wrap": "0.1.2"
+  },
+  "devDependencies": {
+    "debug": "1.0.2",
+    "expect.js": "0.3.1",
+    "mocha": "1.20.1"
+  }
+}
