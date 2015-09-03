@@ -1,3 +1,5 @@
+> 很抱歉，此项目已停止维护！
+
 # fdfs-client wrapper for co
 此模块为[fdfs-client](https://github.com/chenboxiang/fdfs-client)模块的配合co使用的版本。
 
